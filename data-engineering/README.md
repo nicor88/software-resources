@@ -1,6 +1,6 @@
 ## Articles
-*   [Nosql DB comparison](https://kkovacs.eu/cassandra-vs-mongodb-vs-couchdb-vs-redis)
-
+*   [NoSQL DB comparison](https://kkovacs.eu/cassandra-vs-mongodb-vs-couchdb-vs-redis)
+*   [NoSQL List](http://nosql-database.org/)
 
 ## Tutorials
 *   [Setup Elasticsearch Cluster](https://www.digitalocean.com/community/tutorials/how-to-set-up-a-production-elasticsearch-cluster-on-ubuntu-14-04)
