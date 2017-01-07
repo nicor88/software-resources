@@ -1,6 +1,7 @@
 ## Articles
 *   [NoSQL DB comparison](https://kkovacs.eu/cassandra-vs-mongodb-vs-couchdb-vs-redis)
 *   [NoSQL List](http://nosql-database.org/)
+*   2017-01-07 [Machine Learning with Spark: Determining Credibility of a Customer – Part 1](https://acadgild.com/blog/machine-learning-spark-determining-credibility-customer-part-1/)
 
 ## Tutorials
 *   [Setup Elasticsearch Cluster](https://www.digitalocean.com/community/tutorials/how-to-set-up-a-production-elasticsearch-cluster-on-ubuntu-14-04)
