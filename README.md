@@ -1,7 +1,6 @@
 # software-resources
-Collection of software resources: talks, courses, tutorials
+Collection of software resources: talks, courses, tutorials split by sections:
 
-Topics are split by section:
 *   Data Engineering
 *   Dev Ops
 *   Frontend
