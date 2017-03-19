@@ -2,7 +2,7 @@
 *   2016-12-14 [NoSQL DB comparison](https://kkovacs.eu/cassandra-vs-mongodb-vs-couchdb-vs-redis)
 *   2016-12-14 [NoSQL List](http://nosql-database.org/)
 *   2017-01-07 [Machine Learning with Spark: Determining Credibility of a Customer – Part 1](https://acadgild.com/blog/machine-learning-spark-determining-credibility-customer-part-1/)
-*   2017-01-07 [Machine Learning with Spark: Determining Credibility of a Customer – Part 1](https://acadgild.com/blog/machine-learning-spark-determining-credibility-customer-part-1/)
+*   2017-01-07 [Machine Learning with Spark: Determining Credibility of a Customer – Part 2](https://acadgild.com/blog/machine-learning-with-spark-determining-credibility-of-a-customer-part-2/)
 
 ## Tutorials
 *   2016-12-14 [Setup Elasticsearch Cluster](https://www.digitalocean.com/community/tutorials/how-to-set-up-a-production-elasticsearch-cluster-on-ubuntu-14-04)
@@ -12,5 +12,5 @@
 ## Databases
 *   2016-12-14 [CrateDB](https://crate.io/overview/) Scalable SQL DB based on ElasticSearch
 *   2016-12-14 [InfluxDB](https://www.influxdata.com/time-series-platform/influxdb/) Time-serie data storage
-*   2016-12-14 2016-12-14[PrestoDB](https://prestodb.io/) Distributed SQL query engine on memory
+*   2016-12-14 [PrestoDB](https://prestodb.io/) Distributed SQL query engine on memory
 *   2016-12-14 [Splice Machine](http://www.splicemachine.com/product/features/) Simultaneous OLTP & OLAP Workloads
