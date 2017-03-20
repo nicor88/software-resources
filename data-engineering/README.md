@@ -3,6 +3,7 @@
 *   2016-12-14 [NoSQL List](http://nosql-database.org/)
 *   2017-01-07 [Machine Learning with Spark: Determining Credibility of a Customer – Part 1](https://acadgild.com/blog/machine-learning-spark-determining-credibility-customer-part-1/)
 *   2017-01-07 [Machine Learning with Spark: Determining Credibility of a Customer – Part 2](https://acadgild.com/blog/machine-learning-with-spark-determining-credibility-of-a-customer-part-2/)
+*   2017-03-20 [Will Apache Spark Replace Hadoop?](https://acadgild.com/blog/will-apache-spark-replace-hadoop/)
 
 ## Tutorials
 *   2016-12-14 [Setup Elasticsearch Cluster](https://www.digitalocean.com/community/tutorials/how-to-set-up-a-production-elasticsearch-cluster-on-ubuntu-14-04)
