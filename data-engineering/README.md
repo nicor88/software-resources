@@ -6,6 +6,8 @@
 *   2017-03-20 [Will Apache Spark Replace Hadoop?](https://acadgild.com/blog/will-apache-spark-replace-hadoop/)
 *   2017-07-28 [Data collection: the essential, but unloved, foundation of the data value chain](https://snowplowanalytics.com/blog/2017/01/16/data-collection-the-essential-but-unloved-foundation-of-the-data-value-chain/)
 *   2017-08-06 [The Rise of the Data Engineer](https://medium.freecodecamp.org/the-rise-of-the-data-engineer-91be18f1e603)
+*   2017-08-06 [Apache Kafka and Amazon Kinesis
+](http://www.jesse-anderson.com/2017/07/apache-kafka-and-amazon-kinesis/)
 
 ## Tutorials
 *   2016-12-14 [Setup Elasticsearch Cluster](https://www.digitalocean.com/community/tutorials/how-to-set-up-a-production-elasticsearch-cluster-on-ubuntu-14-04)
