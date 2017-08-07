@@ -19,3 +19,8 @@
 *   2016-12-14 [InfluxDB](https://www.influxdata.com/time-series-platform/influxdb/) Time-serie data storage
 *   2016-12-14 [PrestoDB](https://prestodb.io/) Distributed SQL query engine on memory
 *   2016-12-14 [Splice Machine](http://www.splicemachine.com/product/features/) Simultaneous OLTP & OLAP Workloads
+
+## Blogs
+*   [Jesse Anderson](http://www.jesse-anderson.com/category/blog/data-engineering/)
+*   [Mark Litwintschik](http://tech.marksblogg.com/)
+*   [Data Bricks](https://databricks.com/blog/category/engineering)
