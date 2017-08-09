@@ -8,6 +8,7 @@
 *   2017-08-06 [The Rise of the Data Engineer](https://medium.freecodecamp.org/the-rise-of-the-data-engineer-91be18f1e603)
 *   2017-08-06 [Apache Kafka and Amazon Kinesis
 ](http://www.jesse-anderson.com/2017/07/apache-kafka-and-amazon-kinesis/)
+*   2017-08-09 [Do you need data engineering before data science?](https://medium.com/versiononevc/do-you-need-data-engineering-before-data-science-7e199f8137c5)
 
 ## Tutorials
 *   2016-12-14 [Setup Elasticsearch Cluster](https://www.digitalocean.com/community/tutorials/how-to-set-up-a-production-elasticsearch-cluster-on-ubuntu-14-04)
