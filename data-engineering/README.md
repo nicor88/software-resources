@@ -24,4 +24,5 @@
 ## Blogs
 *   [Jesse Anderson](http://www.jesse-anderson.com/category/blog/data-engineering/)
 *   [Mark Litwintschik](http://tech.marksblogg.com/)
-*   [Data Bricks](https://databricks.com/blog/category/engineering)
+*   [Databricks](https://databricks.com/blog/category/engineering)
+*   [AWS Big Data](https://aws.amazon.com/it/blogs/big-data/)
