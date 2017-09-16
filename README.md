@@ -4,6 +4,7 @@ Collection of software resources: talks, courses, tutorials split by sections:
 *   Data Engineering
 *   Dev Ops
 *   Frontend
+*   Git: it mostly contains basic commands in git
 
 ## General Articles
 *   2017-01-02 [Writing software is hard](https://m.signalvnoise.com/writing-software-is-hard-388d5e982ad9#.p8cc13yok)
