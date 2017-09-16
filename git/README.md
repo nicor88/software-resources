@@ -8,6 +8,8 @@
 
 `git checkout -b branch_name` Create a new branch
 
+`git checkout branch_name` Switch to the specified branch
+
 `git checkout --track origin/branch_name` Checkout a remote branch locally
 
 `git diff branchA..origin/master` Diff between branchA and remote master
