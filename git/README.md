@@ -6,9 +6,15 @@
 
 `git branch -a` List all remote bracnches
 
-`git checkout -b branch_name` Switch to branch or create a new one if doesn't exists
+`git checkout -b branch_name` Create a new branch
 
 `git checkout --track origin/branch_name` Checkout a remote branch locally
+
+`git diff branchA..origin/master` Diff between branchA and remote master
+
+`git merge master` Merge master branch to the current branch
+
+`git merge origin/master` Merge remote master branch to current branch
 
 
 # Github
