@@ -4,7 +4,7 @@
 
 `git branch`
 
-`git branch -a` List all remote bracnches
+`git branch -a` List all remote branches
 
 `git checkout -b branch_name` Create a new branch
 
@@ -18,6 +18,7 @@
 
 `git merge origin/master` Merge remote master branch to current branch
 
+`git rev-parse HEAD` Return the commithash of the current commit
 
 # Github
 
