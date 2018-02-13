@@ -1,6 +1,7 @@
 # software-resources
 Collection of software resources: talks, courses, tutorials split by sections:
 
+*   AWS (Amazon Web Services)
 *   Data Engineering
 *   Dev Ops
 *   Frontend
