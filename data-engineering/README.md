@@ -9,6 +9,7 @@
 *   2017-08-06 [Apache Kafka and Amazon Kinesis
 ](http://www.jesse-anderson.com/2017/07/apache-kafka-and-amazon-kinesis/)
 *   2017-08-09 [Do you need data engineering before data science?](https://medium.com/versiononevc/do-you-need-data-engineering-before-data-science-7e199f8137c5)
+*   2018-02-13 [Top 8 Best Practices for High-Performance ETL Processing Using Amazon Redshift](https://aws.amazon.com/blogs/big-data/top-8-best-practices-for-high-performance-etl-processing-using-amazon-redshift/)
 
 ## Tutorials
 *   2016-12-14 [Setup Elasticsearch Cluster](https://www.digitalocean.com/community/tutorials/how-to-set-up-a-production-elasticsearch-cluster-on-ubuntu-14-04)
