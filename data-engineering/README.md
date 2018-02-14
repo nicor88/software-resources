@@ -15,6 +15,7 @@
 *   2016-12-14 [Setup Elasticsearch Cluster](https://www.digitalocean.com/community/tutorials/how-to-set-up-a-production-elasticsearch-cluster-on-ubuntu-14-04)
 *   2017-01-17 [Drill Workshop, Query parallelization for parquet files](http://www.openkb.info/2015/07/drill-workshop-query-parallelization.html)
 *   2017-01-19 [Run Jupyter Notebook and JupyterHub on Amazon EMR](https://aws.amazon.com/blogs/big-data/running-jupyter-notebook-and-jupyterhub-on-amazon-emr/)
+*   2018-02-14 [Using AWS Athena to query Snowplow ‘good’ events in S3 bucket](https://discourse.snowplowanalytics.com/t/using-aws-athena-to-query-the-good-bucket-on-s3/1227)
 
 ## Databases
 *   2016-12-14 [CrateDB](https://crate.io/overview/) Scalable SQL DB based on ElasticSearch
